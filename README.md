@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Steps to run project in local env
+1. node version = 18, angular version = 17
+2. remove package-lock.json
+3. npm install
+4. ng s --o
